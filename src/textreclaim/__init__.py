@@ -1,1 +1,1 @@
-"""textreclaim baseline (single-responsibility pipeline)."""
+"""textreclaim package (single-responsibility pipeline)."""
